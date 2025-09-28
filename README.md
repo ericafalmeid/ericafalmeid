@@ -1,6 +1,6 @@
-# Olá 👋, eu sou Erica Flávia
+# Olá 👋, eu sou Erica Almeida
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estudante de **Engenharia de Software**. Adoro desenvolver projetos que resolvem problemas reais.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estudante de **Engenharia de Software**. Adoro desenvolver projetos que resolvem problemas reais.  
 
 📍 Localização: Recife, Brasil  
 💼 Estudante de Engenharia de Software | Desenvolvedor Fullstack  
@@ -10,6 +10,12 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estudante
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-fl%C3%A1via-almeida/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ericaflavia6688@gmail.com)
+
+---
+
+## 🎓 Formação Acadêmica
+- **Análise e Desenvolvimento de Sistemas** – Concluído  
+- **Engenharia de Software** – Cursando  
 
 ---
 

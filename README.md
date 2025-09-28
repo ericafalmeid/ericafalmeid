@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Erica Flávia
 
-Sou estudante de Engenharia de Software e adoro desenvolver projetos que resolvem problemas reais.  
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estudante de **Engenharia de Software**. Adoro desenvolver projetos que resolvem problemas reais.
 
 📍 Localização: Recife, Brasil  
 💼 Estudante de Engenharia de Software | Desenvolvedor Fullstack  
